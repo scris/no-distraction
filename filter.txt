@@ -1,0 +1,37 @@
+baijiahao.baidu.com###searchwordSdk
+baijiahao.baidu.com###page_wrapper > div > div._1k19YN3-qdVhoYpBLDMjYV:nth-child(9)
+baijiahao.baidu.com###page_wrapper > div > div.outmargin
+baijiahao.baidu.com###content_wrapper > div:nth-child(2) > div.packupButton.contentPadding.packupButton3:last-child > div.openall:last-child
+baijiahao.baidu.com###commentModule > div.commentEmbed:last-child
+baidu.com###s_pad_navs
+baidu.com###s_cards
+sspai.com###header > div.fixed:first-child
+sspai.com###app > div.article-wrapper:nth-child(2) > div:nth-child(2)
+jianshu.com###recommended-notes
+cnblogs.com###sideBarMain
+cnblogs.com###comment_form
+baike.baidu.com##div.body-wrapper:nth-child(3) > div.before-content:first-child > div.secondsknow-large-container.J-secondsknow-large-container
+baike.baidu.com##div.navbar-wrapper:nth-child(2) > div.wgt-navbar > div.navbar-bg > div.navbar-bg-top > div.navbar-content.layout > div.navbar-content-box
+baike.baidu.com##div.body-wrapper:nth-child(3) > div.content-wrapper:nth-child(2) > div.content > div.side-content:last-child > dl.side-box.lemma-statistics:nth-child(6)
+baike.baidu.com##div.body-wrapper:nth-child(3) > div.content-wrapper:nth-child(2) > div.content > div.main-content:nth-child(2) > dl.lemma-reference.collapse.nslog-area.log-set-param:nth-child(106)
+baike.baidu.com###hotspotmining_s
+baike.baidu.com###tashuo_right > div.tashuo-right-content-essence > div.J-items
+baike.baidu.com##div.body-wrapper:nth-child(3) > div.content-wrapper:nth-child(2) > div.content > div.side-content:last-child > dl.side-box.lemma-statistics:nth-child(7)
+baike.baidu.com###tashuo_bottom
+baike.baidu.com##div.body-wrapper:nth-child(3) > div.content-wrapper:nth-child(2) > div.content > div.main-content:nth-child(2) > div.rs-container-foot:nth-child(188)
+baike.baidu.com##div.body-wrapper:nth-child(3) > div.content-wrapper:nth-child(2) > div.content > div.main-content:nth-child(2) > dl.lemma-reference.collapse.nslog-area.log-set-param:nth-child(190)
+baike.baidu.com##div.body-wrapper:nth-child(3) > div.content-wrapper:nth-child(2) > div.content > div.main-content:nth-child(2) > dl.lemmaWgt-lemmaTitle.lemmaWgt-lemmaTitle-:nth-child(4) > dd.lemmaWgt-lemmaTitle-title > a.lemma-discussion.cmn-btn-hover-blue.cmn-btn-28.j-discussion-link:last-child
+baike.baidu.com##div.wgt-footer-main:nth-child(4)
+zhidao.baidu.com###wgt-related
+zhidao.baidu.com###j-nav-menu-container > div.nav-show-control > div.nav-menu-layout > div.nav-menu.line > div.nav-menu-content.container > div.content-box > div.menu-item-box:nth-child(2) > div.menu-item.menu-item-lanmu:nth-child(2) > a.menu-title:first-child
+zhidao.baidu.com###j-nav-menu-container > div.nav-show-control > div.nav-menu-layout > div.nav-menu.line > div.nav-menu-content.container > div.content-box > div.menu-item-box:nth-child(2) > div.menu-item.menu-item-lanmu:nth-child(2) > div.menu-content:last-child
+zhidao.baidu.com###body > div.clearfix.container-wide.content:nth-child(4) > div.row.clearfix:first-child
+zhidao.baidu.com###body > div.clearfix.container-wide.content:nth-child(4) > aside.period-nav-wp:last-child > div.period-nav:first-child
+zhidao.baidu.com###rel-daily
+zhidao.baidu.com###body > div.container-wide.content:nth-child(2) > div.row.clearfix > div.main.grid:first-child > div.hot-daily-wp:nth-child(2) > div.hot-daily
+baidu.com###bds-right-ads
+baidu.com##div.bds-ads-banner:nth-child(2) > a.banner-content:first-child
+sohu.com###article-container > div.column.left:first-child
+sohu.com###main-header
+baijiahao.baidu.com###content_wrapper > header.landingHead:first-child
+cnblogs.com###blog_post_info_block
