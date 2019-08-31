@@ -1,6 +1,6 @@
 
-## What is it
+### What is it
 
 - A list that helps Chinese-languaged Internet users to avoid reading too much news one time.
 - Not finished, Still in update.
-- Only Tested on Adguard (both iOS and Mac)
+- Only Tested on Adguard (both iOS and Mac), and Ublock Origin, should work on other platforms.
