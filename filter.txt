@@ -40,3 +40,4 @@ zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(2) > div.Post-cont
 zhihu.com###root > div > main.App-main:nth-child(3) > div.QuestionPage > div.Question-main:last-child > div.Question-sideColumn.Question-sideColumn--sticky:last-child > div > div.Sticky.is-fixed:first-child
 zhihu.com###root > div > main.App-main:nth-child(3) > div.QuestionPage > div.Question-main:last-child > div.Question-sideColumn.Question-sideColumn--sticky:last-child > div > div.Sticky
 zhihu.com###root > div > div:nth-child(2) > header.Sticky.AppHeader
+baidu.com###content_right
