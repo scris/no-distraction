@@ -35,3 +35,8 @@ sohu.com###article-container > div.column.left:first-child
 sohu.com###main-header
 baijiahao.baidu.com###content_wrapper > header.landingHead:first-child
 cnblogs.com###blog_post_info_block
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(2) > div.Post-content > div.Post-Sub.Post-NormalSub:last-child > div.Recommendations-Main:first-child
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(2) > div.Post-content > div.Post-Sub.Post-NormalSub:last-child > div.Comments-container:last-child
+zhihu.com###root > div > main.App-main:nth-child(3) > div.QuestionPage > div.Question-main:last-child > div.Question-sideColumn.Question-sideColumn--sticky:last-child > div > div.Sticky.is-fixed:first-child
+zhihu.com###root > div > main.App-main:nth-child(3) > div.QuestionPage > div.Question-main:last-child > div.Question-sideColumn.Question-sideColumn--sticky:last-child > div > div.Sticky
+zhihu.com###root > div > div:nth-child(2) > header.Sticky.AppHeader
