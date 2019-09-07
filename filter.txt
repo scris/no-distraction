@@ -41,3 +41,11 @@ zhihu.com###root > div > main.App-main:nth-child(3) > div.QuestionPage > div.Que
 zhihu.com###root > div > main.App-main:nth-child(3) > div.QuestionPage > div.Question-main:last-child > div.Question-sideColumn.Question-sideColumn--sticky:last-child > div > div.Sticky
 zhihu.com###root > div > div:nth-child(2) > header.Sticky.AppHeader
 baidu.com###content_right
+sohu.com###right-side-bar
+sohu.com###float-btn > ul
+sohu.com###articleAllsee
+sohu.com###article-container > div.left.main:nth-child(2) > div.groom-read:last-child
+sohu.com###mpbox
+sohu.com##div.wrapper-box:nth-child(5)
+sohu.com##div.top-box:nth-child(4) > div.top-box-wrapper > div.logo-search.area:first-child
+sohu.com##div.top-box:nth-child(4) > div.top-box-wrapper
